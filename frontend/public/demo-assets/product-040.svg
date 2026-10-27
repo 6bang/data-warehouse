@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Original geometric fictional product 040</title>
+  <rect width="256" height="256" rx="28" fill="#f6e9e5"/>
+  <circle cx="45" cy="47" r="17" fill="#c98c79" opacity=".22"/>
+  <ellipse cx="128" cy="215" rx="76" ry="9" fill="#895846" opacity=".12"/>
+  <rect x="75" y="59" width="113" height="145" rx="10" fill="#895846"/>
+  <rect x="65" y="51" width="113" height="145" rx="10" fill="#c98c79"/>
+  <rect x="83" y="70" width="77" height="108" rx="6" fill="#f6e9e5"/>
+  <path d="M94 96h54M94 117h54M94 138h54M109 82v84M132 82v84" fill="none" stroke="#895846" stroke-width="3"/>
+  <rect x="72" y="51" width="9" height="145" rx="4" fill="#895846"/>
+</svg>

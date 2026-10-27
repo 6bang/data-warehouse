@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "id": "synthetic-item-001",
+      "name": "虚构样品 · 弧线收纳盒（雾蓝款）",
+      "code": "DEMO-GEO-001",
+      "imageUrl": "/demo-assets/product-001.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-002",
+      "name": "虚构样品 · 弧线收纳盒（浅绿款）",
+      "code": "DEMO-GEO-002",
+      "imageUrl": "/demo-assets/product-002.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-003",
+      "name": "虚构样品 · 弧线收纳盒（暖杏款）",
+      "code": "DEMO-GEO-003",
+      "imageUrl": "/demo-assets/product-003.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-004",
+      "name": "虚构样品 · 弧线收纳盒（淡紫款）",
+      "code": "DEMO-GEO-004",
+      "imageUrl": "/demo-assets/product-004.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-005",
+      "name": "虚构样品 · 弧线收纳盒（沙白款）",
+      "code": "DEMO-GEO-005",
+      "imageUrl": "/demo-assets/product-005.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-006",
+      "name": "虚构样品 · 弧线收纳盒（湖青款）",
+      "code": "DEMO-GEO-006",
+      "imageUrl": "/demo-assets/product-006.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-007",
+      "name": "虚构样品 · 弧线收纳盒（柔粉款）",
+      "code": "DEMO-GEO-007",
+      "imageUrl": "/demo-assets/product-007.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-008",
+      "name": "虚构样品 · 弧线收纳盒（岩灰款）",
+      "code": "DEMO-GEO-008",
+      "imageUrl": "/demo-assets/product-008.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-009",
+      "name": "虚构样品 · 弧线收纳盒（柠黄款）",
+      "code": "DEMO-GEO-009",
+      "imageUrl": "/demo-assets/product-009.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-010",
+      "name": "虚构样品 · 弧线收纳盒（砖红款）",
+      "code": "DEMO-GEO-010",
+      "imageUrl": "/demo-assets/product-010.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-011",
+      "name": "虚构样品 · 圆点随行杯（雾蓝款）",
+      "code": "DEMO-GEO-011",
+      "imageUrl": "/demo-assets/product-011.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-012",
+      "name": "虚构样品 · 圆点随行杯（浅绿款）",
+      "code": "DEMO-GEO-012",
+      "imageUrl": "/demo-assets/product-012.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-013",
+      "name": "虚构样品 · 圆点随行杯（暖杏款）",
+      "code": "DEMO-GEO-013",
+      "imageUrl": "/demo-assets/product-013.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-014",
+      "name": "虚构样品 · 圆点随行杯（淡紫款）",
+      "code": "DEMO-GEO-014",
+      "imageUrl": "/demo-assets/product-014.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-015",
+      "name": "虚构样品 · 圆点随行杯（沙白款）",
+      "code": "DEMO-GEO-015",
+      "imageUrl": "/demo-assets/product-015.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-016",
+      "name": "虚构样品 · 圆点随行杯（湖青款）",
+      "code": "DEMO-GEO-016",
+      "imageUrl": "/demo-assets/product-016.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-017",
+      "name": "虚构样品 · 圆点随行杯（柔粉款）",
+      "code": "DEMO-GEO-017",
+      "imageUrl": "/demo-assets/product-017.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-018",
+      "name": "虚构样品 · 圆点随行杯（岩灰款）",
+      "code": "DEMO-GEO-018",
+      "imageUrl": "/demo-assets/product-018.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-019",
+      "name": "虚构样品 · 圆点随行杯（柠黄款）",
+      "code": "DEMO-GEO-019",
+      "imageUrl": "/demo-assets/product-019.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-020",
+      "name": "虚构样品 · 圆点随行杯（砖红款）",
+      "code": "DEMO-GEO-020",
+      "imageUrl": "/demo-assets/product-020.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-021",
+      "name": "虚构样品 · 层叠置物盘（雾蓝款）",
+      "code": "DEMO-GEO-021",
+      "imageUrl": "/demo-assets/product-021.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-022",
+      "name": "虚构样品 · 层叠置物盘（浅绿款）",
+      "code": "DEMO-GEO-022",
+      "imageUrl": "/demo-assets/product-022.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-023",
+      "name": "虚构样品 · 层叠置物盘（暖杏款）",
+      "code": "DEMO-GEO-023",
+      "imageUrl": "/demo-assets/product-023.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-024",
+      "name": "虚构样品 · 层叠置物盘（淡紫款）",
+      "code": "DEMO-GEO-024",
+      "imageUrl": "/demo-assets/product-024.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-025",
+      "name": "虚构样品 · 层叠置物盘（沙白款）",
+      "code": "DEMO-GEO-025",
+      "imageUrl": "/demo-assets/product-025.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-026",
+      "name": "虚构样品 · 层叠置物盘（湖青款）",
+      "code": "DEMO-GEO-026",
+      "imageUrl": "/demo-assets/product-026.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-027",
+      "name": "虚构样品 · 层叠置物盘（柔粉款）",
+      "code": "DEMO-GEO-027",
+      "imageUrl": "/demo-assets/product-027.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-028",
+      "name": "虚构样品 · 层叠置物盘（岩灰款）",
+      "code": "DEMO-GEO-028",
+      "imageUrl": "/demo-assets/product-028.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-029",
+      "name": "虚构样品 · 层叠置物盘（柠黄款）",
+      "code": "DEMO-GEO-029",
+      "imageUrl": "/demo-assets/product-029.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-030",
+      "name": "虚构样品 · 层叠置物盘（砖红款）",
+      "code": "DEMO-GEO-030",
+      "imageUrl": "/demo-assets/product-030.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-031",
+      "name": "虚构样品 · 方格便签本（雾蓝款）",
+      "code": "DEMO-GEO-031",
+      "imageUrl": "/demo-assets/product-031.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-032",
+      "name": "虚构样品 · 方格便签本（浅绿款）",
+      "code": "DEMO-GEO-032",
+      "imageUrl": "/demo-assets/product-032.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-033",
+      "name": "虚构样品 · 方格便签本（暖杏款）",
+      "code": "DEMO-GEO-033",
+      "imageUrl": "/demo-assets/product-033.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-034",
+      "name": "虚构样品 · 方格便签本（淡紫款）",
+      "code": "DEMO-GEO-034",
+      "imageUrl": "/demo-assets/product-034.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-035",
+      "name": "虚构样品 · 方格便签本（沙白款）",
+      "code": "DEMO-GEO-035",
+      "imageUrl": "/demo-assets/product-035.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-036",
+      "name": "虚构样品 · 方格便签本（湖青款）",
+      "code": "DEMO-GEO-036",
+      "imageUrl": "/demo-assets/product-036.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-037",
+      "name": "虚构样品 · 方格便签本（柔粉款）",
+      "code": "DEMO-GEO-037",
+      "imageUrl": "/demo-assets/product-037.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-038",
+      "name": "虚构样品 · 方格便签本（岩灰款）",
+      "code": "DEMO-GEO-038",
+      "imageUrl": "/demo-assets/product-038.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-039",
+      "name": "虚构样品 · 方格便签本（柠黄款）",
+      "code": "DEMO-GEO-039",
+      "imageUrl": "/demo-assets/product-039.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-040",
+      "name": "虚构样品 · 方格便签本（砖红款）",
+      "code": "DEMO-GEO-040",
+      "imageUrl": "/demo-assets/product-040.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-041",
+      "name": "虚构样品 · 棱面桌灯（雾蓝款）",
+      "code": "DEMO-GEO-041",
+      "imageUrl": "/demo-assets/product-041.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-042",
+      "name": "虚构样品 · 棱面桌灯（浅绿款）",
+      "code": "DEMO-GEO-042",
+      "imageUrl": "/demo-assets/product-042.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-043",
+      "name": "虚构样品 · 棱面桌灯（暖杏款）",
+      "code": "DEMO-GEO-043",
+      "imageUrl": "/demo-assets/product-043.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-044",
+      "name": "虚构样品 · 棱面桌灯（淡紫款）",
+      "code": "DEMO-GEO-044",
+      "imageUrl": "/demo-assets/product-044.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-045",
+      "name": "虚构样品 · 棱面桌灯（沙白款）",
+      "code": "DEMO-GEO-045",
+      "imageUrl": "/demo-assets/product-045.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-046",
+      "name": "虚构样品 · 棱面桌灯（湖青款）",
+      "code": "DEMO-GEO-046",
+      "imageUrl": "/demo-assets/product-046.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-047",
+      "name": "虚构样品 · 棱面桌灯（柔粉款）",
+      "code": "DEMO-GEO-047",
+      "imageUrl": "/demo-assets/product-047.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-048",
+      "name": "虚构样品 · 棱面桌灯（岩灰款）",
+      "code": "DEMO-GEO-048",
+      "imageUrl": "/demo-assets/product-048.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-049",
+      "name": "虚构样品 · 棱面桌灯（柠黄款）",
+      "code": "DEMO-GEO-049",
+      "imageUrl": "/demo-assets/product-049.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-050",
+      "name": "虚构样品 · 棱面桌灯（砖红款）",
+      "code": "DEMO-GEO-050",
+      "imageUrl": "/demo-assets/product-050.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-051",
+      "name": "虚构样品 · 拼色整理袋（雾蓝款）",
+      "code": "DEMO-GEO-051",
+      "imageUrl": "/demo-assets/product-051.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-052",
+      "name": "虚构样品 · 拼色整理袋（浅绿款）",
+      "code": "DEMO-GEO-052",
+      "imageUrl": "/demo-assets/product-052.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-053",
+      "name": "虚构样品 · 拼色整理袋（暖杏款）",
+      "code": "DEMO-GEO-053",
+      "imageUrl": "/demo-assets/product-053.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-054",
+      "name": "虚构样品 · 拼色整理袋（淡紫款）",
+      "code": "DEMO-GEO-054",
+      "imageUrl": "/demo-assets/product-054.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-055",
+      "name": "虚构样品 · 拼色整理袋（沙白款）",
+      "code": "DEMO-GEO-055",
+      "imageUrl": "/demo-assets/product-055.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-056",
+      "name": "虚构样品 · 拼色整理袋（湖青款）",
+      "code": "DEMO-GEO-056",
+      "imageUrl": "/demo-assets/product-056.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-057",
+      "name": "虚构样品 · 拼色整理袋（柔粉款）",
+      "code": "DEMO-GEO-057",
+      "imageUrl": "/demo-assets/product-057.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-058",
+      "name": "虚构样品 · 拼色整理袋（岩灰款）",
+      "code": "DEMO-GEO-058",
+      "imageUrl": "/demo-assets/product-058.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-059",
+      "name": "虚构样品 · 拼色整理袋（柠黄款）",
+      "code": "DEMO-GEO-059",
+      "imageUrl": "/demo-assets/product-059.svg",
+      "createdAt": null
+    },
+    {
+      "id": "synthetic-item-060",
+      "name": "虚构样品 · 拼色整理袋（砖红款）",
+      "code": "DEMO-GEO-060",
+      "imageUrl": "/demo-assets/product-060.svg",
+      "createdAt": null
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+date,shop,product_id,product_name,sales,orders,visitors,conversion_rate,ad_cost,profit,stock
+2025-01-01,示例店铺甲,SAMPLE-001,虚构示例商品甲,1200,12,600,2,100,300,80
+2025-01-01,示例店铺乙,SAMPLE-002,虚构示例商品乙,800,8,400,2,60,200,50

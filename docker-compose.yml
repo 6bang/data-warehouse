@@ -1,0 +1,37 @@
+services:
+  mysql:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-commerce_warehouse}
+      MYSQL_USER: ${MYSQL_USER:-commerce}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:?Run python3 scripts/dev.py init first}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Run python3 scripts/dev.py init first}
+      TZ: Asia/Shanghai
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: [CMD-SHELL, 'MYSQL_PWD=$$MYSQL_ROOT_PASSWORD mysqladmin ping -h localhost --silent']
+      interval: 5s
+      timeout: 5s
+      retries: 30
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DB_ENGINE: mysql
+      MYSQL_HOST: mysql
+    command: sh -c "python manage.py migrate --noinput && python manage.py bootstrap_admin && gunicorn config.wsgi:application --bind 0.0.0.0:8000 --workers 2 --timeout 120"
+    depends_on:
+      mysql:
+        condition: service_healthy
+  frontend:
+    build: ./frontend
+    restart: unless-stopped
+    ports:
+      - '${FRONTEND_BIND:-127.0.0.1:8080}:80'
+    depends_on:
+      - backend
+volumes:
+  mysql_data:

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Original geometric fictional product 010</title>
+  <rect width="256" height="256" rx="28" fill="#f6e9e5"/>
+  <circle cx="45" cy="47" r="17" fill="#c98c79" opacity=".22"/>
+  <ellipse cx="128" cy="215" rx="76" ry="9" fill="#895846" opacity=".12"/>
+  <rect x="67" y="94" width="122" height="92" rx="18" fill="#c98c79"/>
+  <rect x="57" y="78" width="142" height="29" rx="12" fill="#895846"/>
+  <rect x="103" y="124" width="50" height="17" rx="8" fill="#f6e9e5"/>
+  <circle cx="175" cy="54" r="10" fill="#c98c79"/>
+</svg>
